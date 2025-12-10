@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">Ferramentas 🔨</h2>
+<h2 align="center">Ferramentas e Linguagens🔨</h2>
 
 ###
 
