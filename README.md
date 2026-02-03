@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">📚 Estudante Técnico em Informática para Internet na WEG.<br>🎯 Focando na aprendizagem em desenvolver sistemas e ampliar cada vez mais meu conhecimento.<br>✝️ 𝐈𝐬𝐚𝐢́𝐚𝐬 𝟒𝟏:𝟏𝟎: 𝐍𝐚̃𝐨 𝐭𝐞𝐦𝐚𝐬, 𝐩𝐨𝐫𝐪𝐮𝐞 𝐞𝐮 𝐬𝐨𝐮 𝐜𝐨𝐧𝐭𝐢𝐠𝐨.</p>
+<p align="center">📚 Estudante Técnico em Informática para Internet na WEG.<br>🎯 Focando na aprendizagem em desenvolver sistemas e ampliar cada vez mais meu conhecimento.<br></p>
 
 ###
 
