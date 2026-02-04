@@ -48,5 +48,5 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif" />
+  <img height="200" src="https://lh3.googleusercontent.com/gg-dl/AOI_d_8U4k8MSDtadIEqxz4m1uZ3ifOR-90gxp_wvTuyYA6SjRUXJtE3nT6_dAj3keyopgTBjCHtfXvWjLsemyKVE5TQEynkTUIEptlZSBruRZ0ztjzVnF9fL_iesFlKhz7sC8TGGl8ObIYV6Po82b2NpMtRrgz-KPj7XZrOMm-2vVaptl3jIQ=s1024-rj" />
 </div>
