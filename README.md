@@ -19,7 +19,7 @@
   <img width="25" />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="32" alt="intellij logo"  />
   <img width="25" />
-  <img src="https://github.com/user-attachments/assets/ec0674ef-1d28-443d-87ce-59c805149ac1/♨Java-FFFFFF?style=for-the-badge&logo=java&logoColor=black"/>
+  <img src="https://github.com/user-attachments/assets/ec0674ef-1d28-443d-87ce-59c805149ac1/♨Java-FFFFFF?style=for-the-badge&logo=java&logoColor=black" height="32" alt="java logo"/>
   <img width="25" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="32" alt="mysql logo"  />
   <img width="25" />
